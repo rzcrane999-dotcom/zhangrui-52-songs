@@ -1,5 +1,7 @@
 # 张叡词曲52首
 
+🌐 公开网站（谁都能打开）：https://rzcrane999-dotcom.github.io/zhangrui-52-songs/
+
 张叡作词、作曲的 52 首歌曲（由雪非编辑、发表于其美篇账号）的网络汇总页，
 用于发布到 GitHub Pages，供大家在线浏览。
 
